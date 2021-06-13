@@ -1,0 +1,257 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-color:darkgrey;
+	line-height:23px;
+	font-family:playfair, georgia, arial;
+	
+}
+
+
+#wrapper {
+    height: auto;
+    background-color: #FFFFFF;
+    margin-left:auto;
+	margin-right:auto;
+	width:68%;
+	color:black;
+}
+
+p{
+	font-size:1.2em;
+	float:left;
+	font-family:playfair;
+	padding-bottom:2em;
+	width:100%;
+}
+
+main{
+
+display:block;
+
+}	
+
+header{
+    width:100%;
+    height: 112px;
+}
+
+#logobox {
+    width: 100%;
+    height: 112px;
+    text-align: center;
+	background-image:url(../images/logo.jpg);
+	background-position:left;
+	background-size:165px 150px;
+	background-repeat:no-repeat;
+	padding-top:50px;
+	background-color:#282828;
+	color:white;
+	
+}
+
+#gallery{
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+	background-image:url(../images/cheeseburg.jpg);
+}
+
+#logobox img {
+
+    height: 100px;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+h2{
+	text-align:center;
+
+}
+
+nav {
+    
+    height: 52px;
+    line-height: 52px;
+    background-color: #0b4967;
+    float: left;
+	width:100%;
+	text-decoration: gradient;
+	text-align:center;
+}
+
+nav a {
+    color: white;
+    font-size: 15px;
+    font-family: georgia;
+    margin:5%;
+    text-decoration: none;
+	
+	
+}
+
+nav a:hover {
+    color: greenyellow;
+}
+
+#burger{
+    width:100%;
+    height:400px;
+    background: url(../images/burger.jpg);
+    padding-top:160px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+	padding-bottom:10px;
+}
+
+
+
+h1 {
+    font-family: georgia;
+    margin: 0px 0px 0px 0px;
+    font-size: 32px;
+    padding-top: 2em;
+}
+
+
+
+#overview{
+	height:auto;
+	padding-top:2%;
+	padding-left:3%;
+	padding-right:3%;
+}
+
+#overview h2{
+	color:#e27e03;
+}
+
+
+
+#types{
+	text-align:center;
+	padding-top:2em;
+	padding-bottom:1em;
+	color:#e27e03;
+}
+
+
+
+#Gallery{
+	margin-top:auto;
+	width:100%;
+	margin-right:5%;
+	margin-left:6%;
+}
+
+
+#Gallery img {
+
+   /* margin: 10px 24px 0px 0px;*/
+	width:70%;
+	height:35%;
+	margin-left:9%;
+	
+
+}
+
+#Gallery2{
+	margin-top:auto;
+	margin-right:5%;
+	margin-left:5%;
+	width:100%;
+}
+
+
+#Gallery2 img {
+
+    margin: 10px 24px 0px 0px;
+	width:70%;
+	height:35%;
+	margin-left:9%;
+
+}
+
+
+#burg1{
+	
+	padding-left:4em;
+	font-size:1.1em;
+}
+
+#lefting{
+	width:75%;
+	padding-left:4em;
+	font-size:1.1em;
+}
+
+#lefting1{
+	width:75%;
+	padding-left:4em;
+	font-size:1.1em;
+}
+
+#classic{
+	padding-left:3%;
+	padding-top:2em;
+	
+	color:#e27e03;
+}
+
+ol{
+	padding-bottom:4em;
+}
+
+#burg2{
+	
+	padding-left:4em;
+	font-size:1.1em;
+}
+
+#centering{
+	width:75%;
+	padding-left:4em;
+	font-size:1.1em;
+}
+#centering1{
+	width:75%;
+	padding-left:4em;
+	font-size:1.1em;
+}
+#cheese{
+	padding-left:3%;
+	padding-top:2em;
+	
+	color:#e27e03;
+}
+
+#contact{
+	padding-left:2%;
+	width:300px;
+}
+#contact h4{
+	color:#e27e03;
+}
+#types{
+	padding-bottom:20px;
+}
+
+#compname{
+	font-weight:bold;
+}
+
+footer {
+    width: 100%;
+    height: 50px;
+    background-color: #0b4967;
+    line-height: 50px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 12px;
+    font-family: sans-serif; 
+}
